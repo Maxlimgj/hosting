@@ -1,0 +1,15 @@
+version: "2.1"
+services:
+  duplicati:
+    image: linuxserver/duplicati
+    restart: always
+    container_name: duplicati
+    volumes:
+      - /opt/containers/duplicati/config:/config #configFiles
+      - /opt/containers/duplicati/backups:/backups #backup storage
+      - /opt/containers/duplicati/source:/source #what to backup
+    security_opt:
+      - no-new-privileges:true
+    ports:
+      - 9001:8200
+    

@@ -1,0 +1,207 @@
+{
+  "basics": {
+    "name": "Max Lim",
+    "label": "CyberRisk Developer",
+    "picture": "images/gj.webp",
+    "x_pictureFallback": "images/gj.jpg",
+    "x_title": "Nice to meet you!",
+    "summary": "Currently I'm working as a CyberRisk Developer exploring software, my hobbies are self-hosting, music, front-end,back-end application",
+    "location": {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "region": "SG"
+    },
+    "profiles": [
+      {
+        "network": "DEV Community",
+        "username": "GoodJeans",
+        "url": "https://dev.to/goodjeans",
+        "x_icon": "fab fa-2x fa-dev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/maxlimgj/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "GoodJeans",
+        "url": "https://github.com/GoodJeans",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Deloitte",
+      "position": "Technical Associate",
+      "website": "https://www2.deloitte.com/sg/en/pages/risk/topics/cyber-risk.html#",
+      "startDate": "2020-12-01",
+      "endDate": "",
+      "summary": "Work on cyber security projects in progress..",
+      "highlights": []
+    },
+    {
+      "company": "NebulasTree",
+      "position": "Associate Consultant",
+      "website": "https://NebulasTree.com",
+      "startDate": "2019-12-01",
+      "endDate": "2020-06-01",
+      "summary": "Worked on installation of cyber security products on clients infrastructure, Single-sign-on, 2FA, managing and archival of logs",
+      "highlights": []
+    },
+    {
+      "company": "Activate Interactive",
+      "position": "Frontend Developer",
+      "website": "https://www.activate.sg/",
+      "startDate": "2017-12-17",
+      "endDate": "",
+      "summary": "My first job as a Frontend developer, I learn Angular, Internet Information Services, Quality Assurance and Control.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Singapore University of Social Science",
+      "area": "Information Communication Systems",
+      "studyType": "Bachelor",
+      "startDate": "2019-01-01",
+      "endDate": "2019-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Advanced",
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Advanced",
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "Advanced",
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Containers",
+      "level": "Intermediate",
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Basic",
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Advanced",
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Basic",
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Developer"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Casual speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Self Hosting",
+      "x_icon": "fa-server",
+      "URL": "https://dev.to/maxlimgj/"
+    },
+    {
+      "name": "Cat lover",
+      "x_icon": "fas fa-cat",
+      "URL": "https://www.instagram.com/momo_thesmol/"
+    },
+    {
+      "name": "YouTube",
+      "x_icon": "fa-brands fa-youtube",
+      "URL": "https://www.youtube.com/@goodjobGj"
+    }
+   
+  ]
+}

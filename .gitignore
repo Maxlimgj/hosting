@@ -1,0 +1,20 @@
+containers/bitwarden/logs/bitwarden/*.log
+containers/nginx/data/logs/*.log
+#dependencies
+containers/reactjs/portfolio-react/node-modules
+containers/reactjs/portfolio-react/.pnp
+containers/reactjs/portfolio-react/.pnp.js
+#testing
+containers/reactjs/portfolio-react/coverage
+#production
+containers/reactjs/portfolio-react/build
+# misc
+containers/reactjs/portfolio-react/.DS_Store
+containers/reactjs/portfolio-react/.env.local
+containers/reactjs/portfolio-react/.env.development.local
+containers/reactjs/portfolio-react/.env.test.local
+containers/reactjs/portfolio-react/.env.production.local
+
+containers/reactjs/portfolio-react/npm-debug.log*
+containers/reactjs/portfolio-react/yarn-debug.log*
+containers/reactjs/portfolio-react/yarn-error.log*
