@@ -15,7 +15,7 @@ Follow the steps below to use the script:
 1. Clone the repository: Start by cloning this repository to your local machine. Open your terminal or command prompt and run the following command:
 
    ```bash
-   git clone https://github.com/GoodJeans/self_hosted.git
+   git clone https://github.com/GoodJeans/hosting.git
    ```
 2. Navigate to the repository directory: Change to the repository directory by running the following command:
    ```bash
