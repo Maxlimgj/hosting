@@ -21,22 +21,4 @@ Follow the steps below to use the script:
    ```bash
    cd self_hosted
    ```
-3. Make the script executable: Ensure that the script has execution permissions. Run the following command:
-   ```bash
-   chmod +x update.sh
-   Commit and push changes:
-   ```
-4. To commit and push changes to GitHub, execute the following command:
-   ```bash
-   ./update.sh commit
-   ```
-   This command will add all changes in the current directory to the staging area, create a commit with the default message "Update," and push the changes to the remote repository.
-
-   If you want to use a custom commit message, you can modify the COMMIT_MESSAGE variable in the update script before running the commit command.
-
-5. Pull and fetch changes:
-
-   To fetch the latest changes from the remote repository, execute the following command:
-   ```bash
-   update.sh
-   ```
+3. Execute command docker-compose up, configure your containers and check that the application is running, docker container ls
